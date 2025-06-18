@@ -1,0 +1,14 @@
+{
+  "uuid": "dc173349-fa41-4088-9c54-ecbcbf55acea",
+  "plugin_name": "BoatHUD",
+  "plugin_author": "MRUIAW",
+  "plugin_description": "Based on Java Boat HUD Extended (by jewtvet)",
+  "plugin_version": "1.0.0",
+  "game_version": "1.21.82",
+  "supported_game_version_ranges": [
+    "0.0.0-9.99.9"
+  ],
+  "runtime_version": 2,
+  "target_assembly": "BoatHUD.dll",
+  "repository_url": "https://github.com/MRUIAW/Boat-HUD-Bedrock"
+}
